@@ -1,5 +1,35 @@
-h1 {
-  color: #369;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 250%;
+html, body
+{
+  /*background: #f2f2f2;*/
+  /*background: #F5F6F6;*/
+  /*background: #C2E1E5;*/
+  background: #D5E3E3;
+  font-family: Ubuntu, "times new roman", times, roman, serif;
 }
+
+.pagewrapper
+{
+  margin: -20px 70px -10px 70px;
+  padding: 5px 20px 15px 20px;
+  box-shadow: 0px 0px 7px #999;
+  background: #ffffff none repeat scroll 0% 0%;
+  /*position: relative;*/
+  
+}
+
+.pagecontent
+{
+  display: table;
+}
+
+.navigation
+{
+  padding: 20px 25px 0px 0px;
+  display: table-cell;
+}
+
+.content
+{
+  display: table-cell;
+}
+
